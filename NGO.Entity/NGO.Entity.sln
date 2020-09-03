@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGO.EntityFramework", "NGO.EntityFramework\NGO.EntityFramework.csproj", "{392A3BDB-3EB2-4722-921A-28699672E96E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGO.EntityFramework.IntegrationTest", "NGO.EntityFramework.IntegrationTest\NGO.EntityFramework.IntegrationTest.csproj", "{8175BEF8-B600-4BD2-AA2E-25A1DC7CCD84}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rakeshranjansingh.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NGO.EntityFramework.IntegrationTest\\NGO.EntityFramework.IntegrationTest.csproj
+		SccProjectName1 = NGO.EntityFramework.IntegrationTest
+		SccLocalPath1 = NGO.EntityFramework.IntegrationTest
+		SccProjectUniqueName2 = NGO.EntityFramework\\NGO.EntityFramework.csproj
+		SccProjectName2 = NGO.EntityFramework
+		SccLocalPath2 = NGO.EntityFramework
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392A3BDB-3EB2-4722-921A-28699672E96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392A3BDB-3EB2-4722-921A-28699672E96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392A3BDB-3EB2-4722-921A-28699672E96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392A3BDB-3EB2-4722-921A-28699672E96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8175BEF8-B600-4BD2-AA2E-25A1DC7CCD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8175BEF8-B600-4BD2-AA2E-25A1DC7CCD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8175BEF8-B600-4BD2-AA2E-25A1DC7CCD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8175BEF8-B600-4BD2-AA2E-25A1DC7CCD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
